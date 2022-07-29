@@ -49,12 +49,11 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Mo. Kha. Alamgir
+  - name: Imra de Vries
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
-    designation: SEO Specialist
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: Colourist
+    content: Knows best how to turn gray into colour. Imra helps you out!
     social:
     - icon: ti-facebook
       link: "#"
