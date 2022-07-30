@@ -21,5 +21,4 @@ service:
     content: Everyone has an app, you don't? Change it today!
   - name: Networking
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Error 404? Not with us! Let us help you restoring that data-flow.
