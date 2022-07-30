@@ -47,12 +47,12 @@ portfolio:
     - photography
     content: Need PR marketing? One that works? We are here for you.
     link: "#"
-  - name: Business Card
+  - name: Colour grading
     image: images/portfolio/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
     categories:
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: We love the colours, do you?
     link: "#"
   - name: Stationary Design
     image: images/portfolio/portfolio-8.jpg
