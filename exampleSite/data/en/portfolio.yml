@@ -33,12 +33,12 @@ portfolio:
     - development
     content: Need a good picture? Ring us!
     link: "#"
-  - name: Shopping Bag
+  - name: Unboxing video
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
     categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: It's not a secret, we are here to unbox!
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
