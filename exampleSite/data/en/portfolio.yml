@@ -40,12 +40,12 @@ portfolio:
     - design
     content: It's not a secret, we are here to unbox!
     link: "#"
-  - name: Tag Design
+  - name: Marketing
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
     categories:
     - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Need PR marketing? One that works? We are here for you.
     link: "#"
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
