@@ -15,7 +15,7 @@ portfolio:
     image_webp: images/portfolio/portfolio-2.webp
     categories:
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Listen carefully, do you hear that, that sound design is made by us!
     link: ''
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
