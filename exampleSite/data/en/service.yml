@@ -14,8 +14,8 @@ service:
     content: 'We know the drill, how to get your ad in the best spots. '
   - name: Graphic Design
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Funky designs, with a some Dutch influences. Give us a call and we get
+      you some.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
