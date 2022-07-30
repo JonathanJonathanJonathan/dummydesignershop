@@ -23,7 +23,7 @@ portfolio:
     categories:
     - design
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Sometimes we design products, like this one.
     link: "#"
   - name: Bottol Label
     image: images/portfolio/portfolio-4.jpg
