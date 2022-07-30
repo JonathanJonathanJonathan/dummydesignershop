@@ -13,7 +13,7 @@ contact:
   - icon: ti-printer
     info: 'Fax: +31 11 098 000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: info@video.protozoan2.nl'
   contact_form:
     enable: true
     form_action: "#"
