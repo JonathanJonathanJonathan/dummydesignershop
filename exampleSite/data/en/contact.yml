@@ -16,7 +16,7 @@ contact:
     info: 'Email: info@video.protozoan2.nl'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: email:info@video.protozoan2.nl
     name: Your Name
     email: Your Email
     subject: Subject
